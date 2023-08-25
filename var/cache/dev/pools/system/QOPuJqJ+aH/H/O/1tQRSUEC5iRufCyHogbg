@@ -1,0 +1,3 @@
+<?php //route_name_af7d727f727a513a9978c5c8908ab879
+
+return [PHP_INT_MAX, 'api_proyectos_get_item'];
